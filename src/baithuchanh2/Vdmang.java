@@ -21,7 +21,7 @@ public class Vdmang {
 					a[i] = in.nextInt();
 					i++;
 				} else {
-					System.out.println("Vui long nhap so: ");
+					System.out.println("Vui long nhap so : ");
 					in.next();
 				}
 			}
